@@ -1,0 +1,2 @@
+dato cms vercel login
+https://virtual-event-starter-kit-2315.admin.datocms.com/enter?access_token=eyJhbGciOiJIUzI1NiJ9.eyJ2Ijoicy0yIiwicyI6NjMyNzcsImkiOjUxNzMxLCJ0IjoiYSIsImciOiIyMDIyLTAyLTEzVDA2OjUyOjM4LjM1NyswMDowMCJ9.BWRVUA5tPN6fcgaQbGOiik9BW_cgNVN6R-npDvf6vNo
